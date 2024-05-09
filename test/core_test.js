@@ -18,7 +18,6 @@ const jsonData = JSON.stringify(gusets);
 fs.writeFileSync("j_data.json",jsonData)
 
 //read
-
 const dataBaffer=fs.readFileSync("j_data.json");
 const dataJSON=dataBaffer.toString();
 const data=JSON.parse(dataJSON);
