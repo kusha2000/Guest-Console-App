@@ -4,17 +4,19 @@ This is a simple Guest Management Console System built using Node.js. It provide
 
 Features:
 <ul>
-<li>Add Guest: Add a new guest with details such as name, address, contact number, and visit date.</li>
-<li>Update Guest: Update an existing guest's information by specifying their ID.</li>
-<li>Delete Guest: Remove a guest from the system using their ID.</li>
-<li>Read Guest: Retrieve information of a specific guest by ID.</li>
-<li>List Guests: List all guests stored in the system.</li>
+✅ Add Guest: Add a new guest with details such as name, address, contact number, and visit date.<br>
+✅ Update Guest: Update an existing guest's information by specifying their ID.<br>
+✅ Delete Guest: Remove a guest from the system using their ID.<br>
+✅ Read Guest: Retrieve information of a specific guest by ID.<br>
+✅ List Guests: List all guests stored in the system.<br>
 </ul>
 
-<h2>This is the Full Demo of the project</h2><br><br
+<h2>This is the Full Demo of the project</h2><br><br>
 
-   ![Demo](https://github.com/kusha2000/Guest-Console-App/assets/127003267/6e5cfc7c-07f3-491b-a7e8-8633ca5a5ce4)
-                               
+
+https://github.com/user-attachments/assets/3a8d3c4a-9396-421a-80a8-5e62bba69339
+
+                     
 <br><br>
 <h2>This is the screenshots of the system</h2><br><br>
 
